@@ -9,7 +9,7 @@ This section contains array problems categorized for interview preparation.
 | # | Problem | Approach | Difficulty | Link |
 |---|--------|---------|-----------|------|
 | 1 | Two Sum | HashMap | Easy | [View](./TwoSum.md) |
-
+| 2 | Best Time to Buy and Sell Stock | Greedy | Easy | [View](./BestTimeToBuySellStock.md) |
 ---
 
 ## 🏷️ Notes
