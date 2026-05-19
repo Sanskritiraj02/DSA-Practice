@@ -13,6 +13,7 @@ This section contains array problems categorized for interview preparation.
 | 3 | Maximum Subarray (Kadane’s) | DP / Greedy | Medium | [View](./MaximumSubarray.md) |
 | 4 | Majority Element | Boyer-Moore Voting | Easy | [View](./MajorityElement.md) |
 | 5 | Sort Colors | Dutch National Flag (3 pointers) | Medium | [View](./SortColors.md) |
+| 6 | Next Permutation | Greedy + Reverse | Medium | [View](./NextPermutation.md) |
 ---
 
 ## 🏷️ Notes
