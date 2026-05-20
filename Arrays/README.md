@@ -14,6 +14,7 @@ This section contains array problems categorized for interview preparation.
 | 4 | Majority Element | Boyer-Moore Voting | Easy | [View](./MajorityElement.md) |
 | 5 | Sort Colors | Dutch National Flag (3 pointers) | Medium | [View](./SortColors.md) |
 | 6 | Next Permutation | Greedy + Reverse | Medium | [View](./NextPermutation.md) |
+| 7 | Merge Intervals | Sorting + Greedy | Medium | [View](./MergeIntervals.md) |
 ---
 
 ## 🏷️ Notes
