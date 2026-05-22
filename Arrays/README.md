@@ -16,6 +16,7 @@ This section contains array problems categorized for interview preparation.
 | 6 | Next Permutation | Greedy + Reverse | Medium | [View](./NextPermutation.md) |
 | 7 | Merge Intervals | Sorting + Greedy | Medium | [View](./MergeIntervals.md) |
 | 8 | Rotate Image | Matrix (Transpose + Reverse) | Medium | [View](./RotateImage.md) |
+| 9 | Set Matrix Zeroes | Matrix (In-place) | Medium | [View](./SetMatrixZeroes.md) |
 ---
 
 ## 🏷️ Notes
