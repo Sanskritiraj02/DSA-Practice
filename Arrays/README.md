@@ -17,6 +17,7 @@ This section contains array problems categorized for interview preparation.
 | 7 | Merge Intervals | Sorting + Greedy | Medium | [View](./MergeIntervals.md) |
 | 8 | Rotate Image | Matrix (Transpose + Reverse) | Medium | [View](./RotateImage.md) |
 | 9 | Set Matrix Zeroes | Matrix (In-place) | Medium | [View](./SetMatrixZeroes.md) |
+| 10 | Longest Consecutive Sequence | HashSet | Medium | [View](./LongestConsecutiveSequence.md) |
 ---
 
 ## 🏷️ Notes
