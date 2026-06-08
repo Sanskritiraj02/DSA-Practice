@@ -22,3 +22,8 @@ At least one half of the array is always sorted,
 even after rotation.
 
 ---
+
+## 💻 Code
+
+```cpp
+// See SearchRotatedArray.cpp
