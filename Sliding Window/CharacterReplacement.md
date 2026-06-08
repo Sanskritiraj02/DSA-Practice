@@ -22,3 +22,8 @@ We don’t need exact replacements, just ensure:
 (window size - maxFreq ≤ k)
 
 ---
+
+## 💻 Code
+
+```cpp
+// See CharacterReplacement.cpp
