@@ -20,3 +20,8 @@
 Minimize the maximum subarray sum using binary search.
 
 ---
+
+## 💻 Code
+
+```cpp
+// See SplitArrayLargestSum.cpp
