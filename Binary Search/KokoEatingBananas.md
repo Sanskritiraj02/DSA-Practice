@@ -21,3 +21,8 @@
 Transform optimization problem into a YES/NO problem.
 
 ---
+
+## 💻 Code
+
+```cpp
+// See KokoEatingBananas.cpp
