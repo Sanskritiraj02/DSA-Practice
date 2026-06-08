@@ -32,3 +32,8 @@ Instead of flattening or sorting the matrix, we binary search the answer and cou
 * Else → move up
 
 ---
+
+## 💻 Code
+
+```cpp
+// See KthSmallestMatrix.cpp
