@@ -8,3 +8,4 @@
 | 4 | Koko Eating Bananas | Binary Search on Answer | Medium | [View](./KokoEatingBananas.md) |
 | 5 | Median of Two Sorted Arrays | Binary Search on Partition | Hard | [View](./MedianTwoSortedArrays.md) |
 | 6 | Split Array Largest Sum | Binary Search on Answer | Hard | [View](./SplitArrayLargestSum.md) |
+| 7 | Kth Smallest Element in a Sorted Matrix | Binary search on value range | Medium | [View](./KthSmallestMatrix.md) |
