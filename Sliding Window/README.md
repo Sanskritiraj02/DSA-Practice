@@ -8,3 +8,4 @@
 | 4 | Longest Repeating Character Replacement | Variable Window | Medium | [View](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | 5 | Maximum Sum Subarray of Size K | Fixed Sliding Window | Easy | [View](./MaxSumSubarraySizeK.md) |
 | 6 | Substring with Concatenation of All Words| Fixed Sliding Window | Hard | [View](./SubstringConcatWords.md) |
+| 7 | Fruit Into Baskets | Sliding Window | Medium | [View](./FruitIntoBaskets.md) |
