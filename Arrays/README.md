@@ -19,6 +19,7 @@ This section contains array problems categorized for interview preparation.
 | 9 | Set Matrix Zeroes | Matrix (In-place) | Medium | [View](./SetMatrixZeroes.md) |
 | 10 | Longest Consecutive Sequence | HashSet | Medium | [View](./LongestConsecutiveSequence.md) |
 | 11 | Trapping Rain Water | Two Pointer Technique | Hard | [View](./TrappingRainWater.md) |
+| 12 | 3Sum | Two Pointer + Sorting | Medium | [View](./ThreeSum.md) |
 ---
 
 ## 🏷️ Notes
