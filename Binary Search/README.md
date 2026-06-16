@@ -11,3 +11,4 @@
 | 7 | Kth Smallest Element in a Sorted Matrix | Binary search on value range | Medium | [View](./KthSmallestMatrix.md) |
 | 8 | Capacity to Ship Packages Within D Days | Binary Search on Answer | Medium | [View](./ShipPackages.md) |
 | 9 | Find the Smallest Divisor Given a Threshold | Binary Search on Answer | Medium | [View](./SmallestDivisor.md) |
+| 10 | Aggressive Cows | Binary Search on Answer | Medium | [View](./AggressiveCows.md) |
