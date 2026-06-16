@@ -1,6 +1,5 @@
 # 🔹 Aggressive Cows
 
-🔗 SPOJ: https://www.spoj.com/problems/AGGRCOW/
 🔗 LeetCode Equivalent: https://leetcode.com/problems/magnetic-force-between-two-balls/
 
 ---
