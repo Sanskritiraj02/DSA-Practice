@@ -6,3 +6,4 @@
 | 2 | Top K Frequent Elements | Min Heap + Hashing | Medium | [View](./TopKFrequent.md) |
 | 3 | Merge K Sorted Lists | Min Heap | Hard | [View](./MergeKLists.md) |
 | 4 | K Closest Points to Origin | Max Heap | Medium | [View](./k-closest-points.md) |
+| 5 | Median Data Stream | Two Heaps(Max+Min) | Hard | [View](./MedianDataStream.md) |
