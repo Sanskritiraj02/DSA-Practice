@@ -21,3 +21,7 @@
 Water trapped depends on the smaller boundary (min(leftMax, rightMax)).
 
 ---
+## 💻 Code
+
+```cpp
+// See TrappingRainWater.cpp
